@@ -1,4 +1,4 @@
-#
+# Copyright (C) 2013 OmniROM Project
 # Copyright (C) 2013 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -30,7 +30,7 @@ $(call inherit-product, device/motorola/xt925/device_xt925.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := xt925
-PRODUCT_NAME := full_xt925
+PRODUCT_NAME := omni_xt925
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := XT925
 PRODUCT_MANUFACTURER := motorola

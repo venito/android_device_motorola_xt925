@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "omnirom",
+    "repository": "android_device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common",
+    "revision": "android-4.4"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_device_motorola_msm8960-common",
+    "target_path": "device/motorola/msm8960-common",
+    "revision": "android-4.4"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_kernel_motorola_msm8960-common",
+    "target_path": "kernel/motorola/msm8960-common",
+    "revision": "android-4.4"
+  }
+]
